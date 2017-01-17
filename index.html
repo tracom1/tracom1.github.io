@@ -1,0 +1,20 @@
+---
+layout: page
+title: Latest Posts
+image:
+  feature: circuit_board.jpg
+excerpt: "A place to discuss life, tech, and life in tech"
+search_omit: true
+---
+
+<style>
+a:link    {color:white; background-color:transparent; text-decoration:none}
+a:visited {color:gray; background-color:transparent; text-decoration:none}
+a:hover   {color:blue; background-color:transparent; text-decoration:underline}
+</style>
+
+<ul class="post-list">
+{% for post in site.posts limit:10 %}
+  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
+{% endfor %}
+</ul>
