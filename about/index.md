@@ -26,6 +26,6 @@ I rather reluctantly entered the tech world back in 2011.  When I am not on the 
 
 I don't think he buys it.
 
-<a markdown="0" href="https://github.com/tracom1/techlady/pulls" class="btn">Submit an Article Idea via Github</a>
+<a markdown="0" href="https://github.com/tracom1/tracom1.github.io/pulls" class="btn">Submit an Article Idea via Github</a>
 
 [^1]: Example: *domain.com/category-name/post-title*
