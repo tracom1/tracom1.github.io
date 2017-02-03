@@ -105,7 +105,7 @@ And there has been a few main reasons:
 <tr><td>I'm stubborn.  Really stubborn.</td></tr>
 <tr><td>There's always something new to learn.  I tend to leave a field when I get bored (I've had a lot of careers)</td></tr>
 <tr><td>There have always been people in my life that have encouraged me.  Friends, coworkers, bosses.  My direct supervisors in particular have been really great.</td></tr>
-<tr><td>My job lets me eschew personal interation.  Sometimes I can work from home in my pajamas sometimes.</td></tr>
+<tr><td>My job lets me eschew personal interaction.  Sometimes I can work from home in my pajamas sometimes.</td></tr>
 <tr><td>The pay is good.</td></tr>
 <tr><td>I cannot think what else I would want to do for a living.  (much to my dismay watching HGTV from your couch is not a paid career).</td></tr>
 </table></font>
