@@ -2,6 +2,14 @@
 
   
     {
+      "title"			: "ps, I love you",
+      "link"			: "http://localhost:4000/blog/ps-I-love-you/",
+      "excerpt"		: "Advanced Usage of ps Command"
+    }
+  
+
+  
+    ,{
       "title"			: "Welcome!",
       "link"			: "http://localhost:4000/blog/welcome/",
       "excerpt"		: "Blog Beginnings and Musings"
@@ -18,10 +26,12 @@
 
   
     ,{
-      "title"			: "About",
-      "link"			: "http://localhost:4000/about/",
-      "excerpt"		: "What am I doing here?"
+      "title"			: "Contact",
+      "link"			: "http://localhost:4000/contact/",
+      "excerpt"		: "I have a great idea!"
     }
+  
+
   
 
   
@@ -36,6 +46,12 @@
     }
   
 
+  
+    ,{
+      "title"			: "About",
+      "link"			: "http://localhost:4000/about/",
+      "excerpt"		: "What am I doing here?"
+    }
   
 
   
