@@ -85,12 +85,12 @@ It's important to keep in mind that the numbers are averages.  There are always 
 I do think the biggest hurdle is not getting women into tech (although that is a problem), but keeping them.  Culture appears to be the primary reason that forces women out; we do tend to have a shorter life span in tech than other fields.  However, I refuse to agree that the driving motivator is having a family, because in general while tech jobs are demanding, they also tend to be more flexible than other jobs I’ve had.
 
 So it appears the why isn't as simple as it is made out to be - there is probably a combination of many reasons:
-* bias in some form 
-* culture in general
-* lack of enjoyment from the work in general
-* familial obligations
-* lack of work/life balance (metropolitan areas in particular)
-* job advancement (promotion usually moves somebody out of tech)
+* bias in some form<br> 
+* culture in general<br>
+* lack of enjoyment from the work in general<br>
+* familial obligations<br>
+* lack of work/life balance (metropolitan areas in particular)<br>
+* job advancement (promotion usually moves somebody out of tech) <br>
 
 <h2>My Experience</h2>
 
