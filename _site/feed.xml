@@ -4,13 +4,138 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
 <link rel="alternate" type="text/html" href="http://localhost:4000" />
-<updated>2017-02-02T23:01:55-07:00</updated>
+<updated>2017-02-09T12:10:42-07:00</updated>
 <id>http://localhost:4000/</id>
 <author>
   <name>Tracy Roesler</name>
   <uri>http://localhost:4000/</uri>
   <email>tracy@techlady.ninja</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Tech Ladies By the Numbers]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/blog/Tech-Ladies-By-the-Numbers/" />
+  <id>http://localhost:4000/blog/Tech-Ladies-By-the-Numbers</id>
+  <published>2017-02-03T08:00:00-07:00</published>
+  <updated>2017-02-03T08:00:00-07:00</updated>
+  <author>
+    <name>Tracy Roesler</name>
+    <uri>http://localhost:4000</uri>
+    <email>tracy@techlady.ninja</email>
+  </author>
+  <content type="html">
+    &lt;style&gt;
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+tr:nth-child(odd) {
+	background-color: white;
+}
+&lt;/style&gt;
+
+&lt;p&gt;Before you read too far, I am going to warn you that I do not have any answers.  Unfortunately, I’m not a savant who can come up with a magical solution that will net positive change the number of women in tech.&lt;/p&gt;
+
+&lt;p&gt;What I’d like to do is start a dialogue about both the numbers and some of the reasons for WHY women leave.  I think, once a problem is identified or agreed to, we can focus on the resolution.&lt;/p&gt;
+
+&lt;p&gt;For general statistics, I will focus on those provided by the National Center for Women &amp;amp; Information Technology (found here: &lt;a href=&quot;https://www.ncwit.org/sites/default/files/resources/btn_03092016_web.pdf&quot;&gt;NWIT 03092016&lt;/a&gt;) and pay scale — whom while not always my most trusted source, does keep good records and store a lot of employment data.&lt;/p&gt;
+
+&lt;h2&gt;NWIT Data&lt;/h2&gt;
+&lt;p&gt;I have copied and pasted some of the portions of the website below, so you don’t have to switch back and forth. (I know, you’re welcome!)  The first set of numbers is not all that surprising - it shows that women only represent about 25% of the workforce in Information Technology.&lt;/p&gt;
+&lt;center&gt;&lt;figure&gt;
+    &lt;img src=&quot;/images/NWIT_3.png&quot; /&gt;
+    &lt;figcaption&gt;&lt;a href=&quot;https://www.ncwit.org/sites/default/files/resources/btn_03092016_web.pdf&quot;&gt;src: https://www.ncwit.org/sites/default/files/resources/btn_03092016_web.pdf&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;/center&gt;
+&lt;p&gt;The most surprising statistic to me: how many fewer women (as a percentage) are graduating with a bachelors in Comp Sci. in 1985 vs 2014, 37% vs 17%.  This number shows a decreasing interest for women getting INTO tech at all.&lt;/p&gt;
+&lt;center&gt;&lt;figure&gt;
+    &lt;img src=&quot;/images/NWIT_1.png&quot; /&gt;
+    &lt;figcaption&gt;&lt;a href=&quot;https://www.ncwit.org/sites/default/files/resources/btn_03092016_web.pdf&quot;&gt;src: https://www.ncwit.org/sites/default/files/resources/btn_03092016_web.pdf&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;/center&gt;
+&lt;p&gt;Finally, we can see the diversity problem becomes even more pronounced if you account for ethnic diversity – most women in tech are white.  As a white woman in tech, I have so say: that’s true.  I wish there was more diversity in the field.&lt;/p&gt;
+&lt;center&gt;&lt;figure&gt;
+    &lt;img src=&quot;/images/NWIT_2.png&quot; /&gt;
+    &lt;figcaption&gt;&lt;a href=&quot;https://www.ncwit.org/sites/default/files/resources/btn_03092016_web.pdf&quot;&gt;src: https://www.ncwit.org/sites/default/files/resources/btn_03092016_web.pdf&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;/center&gt;
+
+&lt;h2&gt;PayScale Data&lt;/h2&gt;
+&lt;center&gt;&lt;figure&gt;
+    &lt;img src=&quot;/images/payscaleinfo.png&quot; /&gt;
+    &lt;figcaption&gt;&lt;a href=&quot;http://www.payscale.com/data-packages/gender-pay-gap/women-in-tech&quot;&gt;src: http://www.payscale.com/data-packages/gender-pay-gap/women-in-tech&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;/center&gt;
+&lt;p&gt;I chose to control the pay based on people working in similar jobs in payscale’s data for two reasons:
+1) I always appreciate an apple to apples comparison
+2) The subject of what careers women choose to go into is an incredible large topic that will be discussed in a later post.&lt;/p&gt;
+
+&lt;p&gt;So the pay of women looks to be roughly the same in similar jobs.  While there is of course some variance, I don’t know their margin of error or confidence interval, it seems that women in general are not making significantly less then men.&lt;/p&gt;
+
+&lt;h2&gt;So Why are Women Leaving?&lt;/h2&gt;
+&lt;p&gt;MIT conducted a study, published in 2016, that suggested the real problem lay with group and gender dynamics – many women feel marginalized, and assigned more routine and less exciting opportunities than their male counterparts. (&lt;i&gt;cf. &lt;/i&gt; &lt;a href=&quot;http://news.mit.edu/2016/why-do-women-leave-engineering-0615&quot;&gt;Why Do Women Leave Engineering?&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;An HBR study in 2008 also concluded that the work environment in general, is problematic. (&lt;i&gt;cf. &lt;/i&gt; &lt;a href=&quot;https://hbr.org/2008/06/stopping-the-exodus-of-women-in-science&quot;&gt;Stopping The Exodus of Women in Science&lt;/a&gt;)  While women are going into the fields, they aren’t staying there past their mid-to-late thirties (I’m now a high flight risk!).  And the retention rate is small - just 48%!  While environment was not the sole reason for departure, it was listed as the most endemic.&lt;/p&gt;
+
+&lt;p&gt;Many other articles say essentially the same thing - here are just a few:&lt;br /&gt;
+&lt;a href=&quot;https://www.washingtonpost.com/news/on-leadership/wp/2014/05/30/snapchat-sexism-and-the-reason-women-dont-stay-in-tech/?utm_term=.39781426036d&quot;&gt;Snapchat Sexism and the Reason Women Don’t Stay in Tech&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://medium.com/tech-diversity-files/if-you-think-women-in-tech-is-just-a-pipeline-problem-you-haven-t-been-paying-attention-cb7a2073b996#.rfhojnmlc&quot;&gt;If you think women in tech is just a pipeline problem, you haven’t been paying attention&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://fortune.com/2014/10/02/women-leave-tech-culture/&quot;&gt;Why Women Leave Tech&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;What Does it All Mean?&lt;/h2&gt;
+
+&lt;p&gt;Some of these numbers seem strange to me.  Perhaps it’s just my perception, or a sign that I have been in tech so long that I no longer notice.  In the Ops department where I am now, we have at least 5/15 ratio women:total; which is higher than 25% NWIT reports, but not by much.  If you add in DBA or Neteng, the ratio decreases - we do not have any women on those teams.&lt;/p&gt;
+
+&lt;font color=&quot;cyan&quot;&gt;&lt;i&gt;So it seems the numbers are true and I'm just blind to it.&lt;/i&gt;&lt;/font&gt;
+
+&lt;p&gt;It should be clear that while there is a heavier preponderance of men in tech where I work, the numbers are better than at other companies.&lt;/p&gt;
+
+&lt;p&gt;It’s important to keep in mind that the numbers are averages.  There are always corporate counterbalances; for every company like ThoughtWorks that has more women, there’s another company that perhaps has no women at all.&lt;/p&gt;
+
+&lt;p&gt;I do think the biggest hurdle is not getting women into tech (although that is a problem), but keeping them.  Culture appears to be the primary reason that forces women out; we do tend to have a shorter life span in tech than other fields.  However, I refuse to agree that the driving motivator is having a family, because in general while tech jobs are demanding, they also tend to be more flexible than other jobs I’ve had.&lt;/p&gt;
+
+&lt;p&gt;So it appears the why isn’t as simple as it is made out to be - there is probably a combination of many reasons:&lt;br /&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;bias in some form&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;culture in general&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;lack of enjoyment from the work in general&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;familial obligations&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;lack of work/life balance (metropolitan areas in particular)&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;job advancement (promotion usually moves somebody out of tech) &lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;My Experience&lt;/h2&gt;
+
+&lt;p&gt;I have faced every single problem on my aforementioned list, except for job advancement out of tech.  I guess nobody thinks I am ready to advance to something outside of tech yet, despite the fact that I am, in fact, fantastic at doing things AND stuff.  I have also considered leaving the field, more than once.&lt;/p&gt;
+
+&lt;p&gt;There have been lots of moments where I have been disheartened, angry, or just plain bored in what I’m doing.  I have been told by higher ups that I would never be promoted out of my job because I was “too good at what I did”.  I have been hired for a purpose and then had my hands tied to prevent me from accomplishing the task I was hired to do (not just a tech thing).  I’ve had to take 11pm conference calls on a weekend while on vacation abroad.&lt;/p&gt;
+
+&lt;p&gt;Yet I have stayed in tech.&lt;/p&gt;
+
+&lt;p&gt;And there has been a few main reasons:&lt;/p&gt;
+&lt;font color=&quot;black&quot;&gt;&lt;table&gt;
+&lt;tr&gt;&lt;td&gt;I'm stubborn.  Really stubborn.&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;There's always something new to learn.  I tend to leave a field when I get bored (I've had a lot of careers)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;There have always been people in my life that have encouraged me.  Friends, coworkers, bosses.  My direct supervisors in particular have been really great.&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;My job lets me eschew personal interaction.  Sometimes I can work from home in my pajamas.&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;The pay is good.&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;I cannot think what else I would want to do for a living.  (much to my dismay watching HGTV from your couch is not a paid career).&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;/font&gt;
+
+&lt;p&gt;So that’s why I’ve stayed.  Those are my personal numbers.  What do you think?  Can you identify any particular reasons that have either driven you out of tech, or made you think about leaving?  Why do you stay?&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/blog/Tech-Ladies-By-the-Numbers/&quot;&gt;Tech Ladies By the Numbers&lt;/a&gt; was originally published by Tracy Roesler at &lt;a href=&quot;http://localhost:4000&quot;&gt;TechLady Blog&lt;/a&gt; on February 03, 2017.&lt;/p&gt;
+  </content>
+</entry>
 
 
 <entry>
