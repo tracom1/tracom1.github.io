@@ -6,7 +6,7 @@ categories: blog
 image:
   feature: UtahOffice.png
   credit: me; view from my old office
-date: 2017-03-03T07:00:00-07:00
+date: 2017-03-10T07:00:00-07:00
 comments: true
 ---
 <style>
