@@ -57,7 +57,7 @@ for (i = 0; i < close.length; i++) {
 
 I recently read an article on the <a href="https://www.theguardian.com/technology/2017/feb/27/silicon-aa-cost-of-living-crisis-has-americas-highest-paid-feeling-poor?CMP=share_btn_fb">guardian</a> discussing how difficult it is for people in technology to afford living in the Silicon Valley.  
 
-My husband, who also works in tech, and I have previously discussed moving to Silicon Valley.  In a lot of ways, it makes sense to be near San Francisco -- there's so many job opportunities, chances to learn.  Yet I have no intention of every moving to Silicon Valley for one simple reason: the cost of living is way too high.  We've fallen into a really great situation in Salt Lake City, and the tech world here has exploded, earning them the moniker of 'Silicon Slopes'.
+My husband, who also works in tech, and I have previously discussed moving to Silicon Valley.  In a lot of ways, it makes sense to be near San Francisco -- there's so many job opportunities, chances to learn.  Yet I have no intention of ever moving to Silicon Valley for one simple reason: the cost of living is way too high.  We've fallen into a really great situation in Salt Lake City, and the tech world here has exploded, earning them the moniker of 'Silicon Slopes'.
 
 I’ve done some research.  My salary could arguably increase anywhere from 0-50% (if I’m lucky) moving to California.  Yet the cost of housing alone costs roughly <a href="https://www.nerdwallet.com/cost-of-living-calculator">309% more</a> in SanFrancisco, which I think is actually a quite conservative number. And that price differential is only increasing, at a rate much faster than current price increases in the Salt Lake Valley.
 
