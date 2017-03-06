@@ -4,7 +4,15 @@ tracy_roesler:
   name: Tracy Roesler
   email: tracy@techlady.ninja
   bio: "I do stuff.  It's very technical"
+  twitter: tracom00
   avatar: tracy_bio.jpg
+
+anne_nichols:
+  name: Anne Nichols
+  web: https://medium.com/@anne_9999
+  email: annenicholsmail@gmail.com
+  bio: “QA Engineer by day. Cosplayer by night.”
+  avatar: Anne1.jpeg
 
 billy_rick:
   name: Billy Rick
