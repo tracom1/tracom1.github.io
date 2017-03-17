@@ -46,7 +46,7 @@ HTTP2 has introduced the idea of "streams," meaning more complex two-way streams
 
 Think of it this way.  Instead of having your food delivered piecemeal, it comes all at the same time, increasing efficiencies.
 
-<p><a href='https://kinsta.com/learn/what-is-http2/'><img src='https://kinsta.com/wp-content/themes/kinsta/images/learn/what-is-http2/http1_vs_http2_2_both.png' alt='HTTP2 vs HTTP1' width='760' border='0' /></a></p>
+<p><center><a href='https://kinsta.com/learn/what-is-http2/'><img src='https://kinsta.com/wp-content/themes/kinsta/images/learn/what-is-http2/http1_vs_http2_2_both.png' alt='HTTP2 vs HTTP1' width='760' border='0' /></a></center></p>
 
 The protocol is binary, making the data more efficient to parse.  Previous versions of HTTP were based in text, which as we know is not the language of the computers.  Implementation in binary requires much less computing power and processing time to translate into binary.
 
