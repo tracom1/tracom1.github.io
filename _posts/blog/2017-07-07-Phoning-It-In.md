@@ -3,7 +3,7 @@ layout: post
 title: "Phoning It In"
 excerpt: "For the times when I'm lazy"
 categories: blog
-date: 2017-07-06T05:00:00-06:00
+date: 2017-07-07T05:00:00-06:00
 ---
 
 I hate to tell you guys this, but I'm totally phoning in my blog post this week.  (I initially had this week in the previous sentence three times!)  I thought of a few ideas to write about, but turns out, I'm just too tired to write about them!  So next week look for some great researched information about Vault/Consul (I'm also planning on having my HA instance stood up by then too), or a discussion about resume management for maternity leave, breaks from tech, etc.  So at least you have something to look forward to!
