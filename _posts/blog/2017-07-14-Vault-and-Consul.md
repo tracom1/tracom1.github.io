@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vault and Consul"
-excerpt: "Setting up a HA non-container setup"
+excerpt: "Setting up a HA non-container system"
 categories: blog
 date: 2017-07-13T05:00:00-06:00
 ---
