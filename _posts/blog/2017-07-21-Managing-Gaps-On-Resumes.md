@@ -37,7 +37,7 @@ Luckily, there are many, many websites that discuss this very issue (for the ful
 
 <b><font color="cyan">2. Be Honest:</font></b> Don't lie about why you took time off.  Don't go into too much detail either, but it's perfectly reasonable to explain that you took time off for personal reasons, or you were spending time raising your child.  According to a study completed by Joni Hersh, "Those who revealed the personal information were 30 to 40 percent more likely to be chosen than those without." (5)
 
-<b><font color="cyan">3. Be Brief:</font></b>  Don't explain too much why you weren't in the work force.  The important thing is to address the gap, but then move on and focus on the job and your qualifications.
+<b><font color="cyan">3. Be Brief:</font></b>  Don't explain too much why you weren't in the work force.  The important thing is to address the gap, but then move on and focus on the job and your qualifications.  From everything that I have read, it sounds like it's not a matter of if you will be discriminated against, but when.  By not focusing on the issue too long, you're being direct but also mitigating exposure.  Unfortunately, there is just no good way to eliminate all judgement about your time-off.
 
 <b><font color="cyan">4. Explain Your Fit:</font></b> You'll need to emphasize how you've managed to stay up on your training while you've been away.  Discuss any sort of relevant freelance projects, training, any valuable skills that relate that you've learned on your time off. (6).  Be careful from focusing too much on skills that emphasize parenting (or domestic management).  Apparently, it can backfire if the person interviewing you is also a parent.
 
