@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hey Google Guy"
-excerpt: "Some Thoughts on the Echo Chamber"
+excerpt: "Some Thoughts on the `Echo Chamber`"
 categories: blog
 date: 2017-08-11T05:00:00-06:00
 ---
