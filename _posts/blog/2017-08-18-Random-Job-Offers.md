@@ -7,8 +7,7 @@ date: 2017-08-18T05:00:00-06:00
 ---
 
 <center><figure>
-<img src="https://cdn.pixabay.com/photo/2014/12/14/19/36/cube-568187_1280.jpg">
-<figcaption><a href="https://cdn.pixabay.com/photo/2014/12/14/19/36/cube-568187_1280.jpg">Credit: Pixabay</a></figcaption>
+<img src="/images/Dice.jpeg">
 </figure></center>
 
 The other day I dropped my car off at the dealership to get some work done, and then caught a shuttle ride back to my house.
