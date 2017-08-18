@@ -28,7 +28,7 @@ There isn’t much diversity, so everybody wants to hire you. This is such a big
 
 Before everybody gets up in arms about how women are getting jobs unfairly, and comparing it to the manifesto that was posted earlier this month by the Google guy, I don't believe that women are getting jobs that men 'deserve'.  Women deserve the jobs they get, and they work hard for them.
 
-You <u>clearly</u> have to be competent, or you wouldn't be worth hiring.  But all things being equal, a woman has a better chance landing a tech job than a similarly qualified man (<a href="https://www.washingtonpost.com/news/morning-mix/wp/2015/04/14/study-finds-surprisingly-that-women-are-favored-for-jobs-in-stem/?utm_term=.92e51fc49259">).  As mentioned last week, studies have shown that increasing diversity in teams also increases their productivity and puts out a better product.  
+You <u>clearly</u> have to be competent, or you wouldn't be worth hiring.  But all things being equal, a woman has a better chance landing a tech job than a similarly qualified man (<a href="https://www.washingtonpost.com/news/morning-mix/wp/2015/04/14/study-finds-surprisingly-that-women-are-favored-for-jobs-in-stem/?utm_term=.92e51fc49259">Women Favored for Jobs in STEM</a>).  As mentioned last week, studies have shown that increasing diversity in teams also increases their productivity and puts out a better product.
 
 So there are obviously pros to a team in general if you can increase diversity, one reason why companies may hire a woman who has the exact same technical qualifications and skills as a man.  Does this count as bias in the hiring -- maybe on the positive side?
 
