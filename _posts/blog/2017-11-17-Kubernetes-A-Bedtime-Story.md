@@ -10,11 +10,11 @@ date: 2017-11-17T02:00:00-06:00
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/stephen-oung/5732917385/in/photolist-9JAGBc-4sJY58-f7FLKj-6utd7E-oZp9Kw-CN8trq-7k6Kmu-ahYpXr-514RxT-889mqu-7sDnRF-2vVkpu-tiR5Un-6Sgmk9-kqpcEr-nR53XB-4ABYyq-7r1AZJ-8cPDHL-aNLmv6-fmZ83G-7mfLm2-8xBoKb-aaTeid-pydDzb-o5UQna-WHYdrj-faSqeg-6UjWVb-bu2eao-T56cjY-8nX15C-bu2eqh-8Zcv56-6FerxM-oXNMbM-as9QWk-6Rmc2Q-fu4UrA-5aTKED-oXJLkM-okH8sA-bJVq3M-692nZV-4AC1nW-5mXNoS-EJU8a-9yDfGT-aaMyUQ-dJu49c" title="The Conductor"><img src="https://farm6.staticflickr.com/5150/5732917385_ef6e983da3.jpg" width="500" height="334" alt="The Conductor"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </center>
 
-I'm in the process of doing some kubernetes at work -- something nobody has done before in the company.  And I'm doing it in AWS -- something I've never really worked with before.  So I've been spending a lot of time doing "deep research", namely, reading random pages on the internet -- thousands and thousands of posts and pages about how to do Kubernetes.
+I'm in the process of doing some Kubernetes at work -- something nobody has done before in the company.  And I'm doing it in AWS -- something I've never really worked with before.  So I've been spending a lot of time doing "deep research", namely, reading random pages on the internet -- thousands and thousands of posts and pages about how to do Kubernetes.
 
-There are a lot of really good blog posts about how to set up a kubernetes cluster (either locally or on AWS using kops, an AWS command line tool), mostly involving nginx or a hello-world app, so I'm going to skip the step-by-step instructions.  Instead, I'm going to concatenate some of the things I've learned from these pages, and demonstrate some tips and tricks I wish I had known earlier.
+There are a lot of really good blog posts about how to set up a Kubernetes cluster (either locally or on AWS using kops, an AWS command line tool), mostly involving nginx or a hello-world app, so I'm going to skip the step-by-step instructions.  Instead, I'm going to concatenate some of the things I've learned from these pages, and demonstrate some tips and tricks I wish I had known earlier.
 
-In this first part, I will do a brief summary of what kubernetes is for those whom are unfamiliar with (and don't care about) infrastructure.
+In this first part, I will do a brief summary of what Kubernetes is for those whom are unfamiliar with (and don't care about) infrastructure.
 
 <center>
 *****
@@ -27,7 +27,7 @@ Once upon a time, in a land not so far away, lived a bunch of unhappy developers
 <center>
 <iframe src="https://giphy.com/embed/xl5QdxfNonh3q" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mike-korea-north-xl5QdxfNonh3q">via GIPHY</a></p></center>
 
-Their System Administrators enforced 'unfair' rules about how their applications were deployed to production. They could only use certain languages, and not new ones like NodeJS or Python or Cotlin.  They had to bundle together their code into 'releases' or 'executables', like an rpm or tarball (not as much fun as it sounds). And then, they were subjected to the whims of their System Administrator overlords for when their beautiful code would make it into production.  And before that, they had to trust that their evil System Administrator even knew what they were doing!  Sometimes the Administrators would take so long delivering their code, having to make and compile the code from source <b><i>by themselves!</i></b>  Who can trust them to do things right?
+Their System Administrators enforced 'unfair' rules about how their applications were deployed to production. They could only use certain languages, and not new ones like NodeJS or Python or Kotlin.  They had to bundle together their code into 'releases' or 'executables', like an rpm or tarball (not as much fun as it sounds). And then, they were subjected to the whims of their System Administrator overlords for when their beautiful code would make it into production.  And before that, they had to trust that their evil System Administrator even knew what they were doing!  Sometimes the Administrators would take so long delivering their code, having to make and compile the code from source <b><i>by themselves!</i></b>  Who can trust them to do things right?
 
 <center>
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/tomitapio/2122390433/" title="Ohnoes!"><img src="https://farm3.staticflickr.com/2218/2122390433_669c243174_m.jpg" width="240" height="240" alt="Ohnoes!"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
@@ -82,7 +82,7 @@ The developers laughed.
 
 "And as punishment for making developers comply to a standard set of tools and libraries, everybody will tell you how easy Kubernetes is to set up.  Of course, it will be a lie.  But all System Administrators will forget about the burden of setting it up once it is working, and proclaim the news of its ease to the world."
 
-And with that, the Google God asked developers for collaboration help so kubernetes could have more and more tools over more and more iterations.
+And with that, the Google God asked developers for collaboration help so Kubernetes could have more and more tools over more and more iterations.
 
 And then System Administrators were forced to learn development, and to integrate more and more tools into their environments to manage things like IAM, Security, Federation, and accessing Private Docker Registries from inside their cluster.  Leaving developers free to do whatever they wanted.
 
