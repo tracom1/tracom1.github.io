@@ -14,7 +14,7 @@ Guys, it's been an exhausting year for women.  It started back in February, with
 
 And it's been exhausting.
 
-On Novemeber 20th, an article from the New Yorker entitled, <a href="https://www.newyorker.com/magazine/2017/11/20/the-tech-industrys-gender-discrimination-problem">The Tech Industrys Gender Discrimination</a> came out, summarizing the path of the problem through lawsuits over the past few years.  It's a long article, but it's well written and thought-provoking.
+On November 20th, an article from the New Yorker entitled, <a href="https://www.newyorker.com/magazine/2017/11/20/the-tech-industrys-gender-discrimination-problem">The Tech Industry's Gender Discrimination</a>, came out, summarizing the path of the problem through lawsuits over the past few years.  It's a long article, but it's well written and thought-provoking.
 
 And it's draining.
 
