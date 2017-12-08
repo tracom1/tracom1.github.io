@@ -3,7 +3,7 @@ layout: post
 title: "What I Need From My Job"
 excerpt: "Standing up for my wants as an employee"
 categories: blog
-date: 2017-12-01T02:00:00-06:00
+date: 2017-12-08T02:00:00-06:00
 ---
 
 <center><figure>
