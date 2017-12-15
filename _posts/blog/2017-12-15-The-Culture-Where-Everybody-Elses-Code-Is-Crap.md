@@ -3,7 +3,7 @@ layout: post
 title: "The Culture Where Everybody Else's Code is Crap"
 excerpt: "Subjectivism rears its ugly head in development"
 categories: blog
-date: 2017-12-08T02:00:00-06:00
+date: 2017-12-15T02:00:00-06:00
 ---
 
 <center><figure>
