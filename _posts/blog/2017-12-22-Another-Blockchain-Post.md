@@ -11,7 +11,7 @@ date: 2017-12-22T02:00:00-06:00
 <figcaption><a href="https://cdn.pixabay.com/photo/2016/11/10/05/09/bitcoin-1813503_1280.jpg">Source: Pixabay</a></figcaption>
 </figure></center>
 
-It's been in the news a lot lately, so I feel like I would be remiss if I didn't address the portions of the Blockchain elephant in the room.  I'll hop on the bandwagon, and tell you even more about the crytocurrency craze, probably most of which you already know.
+It's been in the news a lot lately, so I feel like I would be remiss if I didn't address the idential Blockchain elephant in all our rooms.  I'll hop on the bandwagon, and tell you even more about the cryptocurrency craze, probably most of which you already know.
 
 I will not try to address the finances behind it, and I certainly will endorse neither purchasing nor abstention from purchasing cryptocurrency.  You can read the financial implications for yourself. If you want to invest, that's really your personal decision -- and I won't try to dissuade you.  I will however tell you that right now, the mania is INSANE, and I recommend not getting caught up in the fever or soon you'll be hanging people as witches.
 
