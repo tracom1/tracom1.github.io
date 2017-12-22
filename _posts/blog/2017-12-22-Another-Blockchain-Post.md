@@ -71,7 +71,7 @@ The beauty of this sort of technology is threefold.  First, if a node goes down,
 
 This technology can be used for many things beyond currency, and there are many companies looking at how they can leverage this de-centralized data.  In fact, <a href="https://blockgeeks.com">blockgeeks.com</a> has a long list of what blockchain can be used for in the world, and how it will <a href="https://www.youtube.com/watch?v=RplnSVTzvnU">transform the economy</a>.  (Here's a hint, it's basically everything in the world).
 
-So that's it from me, Tracy Blockchain Cryptocurrency.
+So that's it from me, Tracy Blockchain Cryptocurrency.  Tune in next week, when I attempt to change my name to reflect my inner tech spirit.
 
 <font color="cyan"><u>Resources</u></font>
 [^1]: <a href="https://www.investopedia.com/terms/b/blockchain.asp"> Investopedia: Blockchain</a>
