@@ -3,7 +3,7 @@ layout: post
 title: "Melting Down Spectre - Part 1"
 excerpt: "A brief history and explanation of the bugs that rocked the kernel"
 categories: blog
-date: 2018-01-12T02:00:00-06:00
+date: 2018-01-19T02:00:00-06:00
 ---
 
 <center><figure>
