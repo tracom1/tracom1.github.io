@@ -18,7 +18,7 @@ Looking for a community where you can discuss tech and other life issues?  You'v
 
 ## About Me:
 
-I rather reluctantly entered the tech world back in 2011.  When I am not on the command line, I am trying to force feed sugar down my co-workers throats, avoiding gluten, and working on convincing my cat I'm better than my husband.
+I rather reluctantly entered the tech world back in 2011.  When I am not on the command line, I am trying to force feed sugar down my co-workers throats, avoiding gluten, and working on convincing my cat I'm better than my husband.  I'm currently on a sabbatical and enjoying every minute of doing what I want.
 
 <figure>
 <img src="/images/Ajax.jpg" alt="image">
