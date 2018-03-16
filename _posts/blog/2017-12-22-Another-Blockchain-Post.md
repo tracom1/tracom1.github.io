@@ -22,7 +22,7 @@ If you are interested in learning more, I recommend you read the resources I've 
 
 Cryptocurrencies leverage a technology called Blockchain[^1] to do what it does.  Blockchain technology has been around for a while -- because Bitcoin has been around for a while.  Bitcoin was initially introduced in 2009 using this technology.  And my own previous company, Overstock, has spent several years working on their Blockchain platform, <a href="https://www.tzero.com/">t0</a>.
 
-Blockchain is called a <a href="https://www.investopedia.com/terms/d/distributed-ledgers.asp">'distributed ledger technology'</a>.  There are different types of blockchain, public, federated, and private.[^2]  The whole point behind the blockchain, and other ledger technologies are this: instead of relying on a central repository for all your information, copies of it are laid out all over the world.[^3]
+Blockchain is called a <a href="https://www.investopedia.com/terms/d/distributed-ledgers.asp">'distributed ledger technology'</a>.  There are different types of blockchain, public, federated, and private.[^2]  The whole point behind the blockchain, and other ledger technologies are this: instead of relying on a central repository for all your information, copies of it are laid out all over the world.[^3]  
 
 Think of it this way.  Imagine your Grandma had some special holiday recipe.  She was the gatekeeper of this recipe, so if you wanted to get it, you had to go ask Grandma directly, she had to agree, and she had to provide it to you, whenever she got around to it.
 
@@ -41,6 +41,8 @@ Each node involved gets a copy of the blockchain, and is updated as a node updat
 Using something like the blockchain requires that there are enough people in the conversation for sharing of the data -- meaning there must be more than 2.[^4]  There always has to be a third external party present for the integrity of the data.  These third parties have to provide quorum, or enough external support to validate the transaction is happening.  In our recipe example, they would have to validate the authorization Grandma made in sharing the recipe on their personal copy, before you would have access to it.
 
 All these transactions are stored in an encrypted manner on your node.  They are sealed (mined) with a unique key created -- a hash.  Basically, once data is announced (like Grandma's Recipe), everybody listening writes it down in their copy of the recipe book, and does a math problem to encrypt it.[^5]  This hash ensures the data doesn't change once it's created, because it's tied both to the specific data that exists when that block was added, and also to all the blocks already in existence on the chain.[^6]
+
+Additionally, every transaction on the blockchain will store person information of the person making that transaction. Authorization is provided in the form of a "personal stamp" -- a public key that identifies the user (anonymously of course).[^7]  The user shares their public key, and has a private key on their computer, that should NEVER be shared.  This is known as asymmetric cryptography, because you have more information than anybody else.
 
 Let's go back to the recipe example.  Let's say Grandma's recipe for Macaroni and Cheese is the first one added to our blockchain, and it gets sealed and a hash is created for it.  Then, your great Aunt Ida's Beef Bourguignon recipe gets added as the second part of the blockchain.  It too gets sealed and has a hash created for it.  Then Uncle Joey's recipe for Chocolate Chip Cookies gets added, and sealed.  These are all sealed with a certain number of leading zeros (called a nonce).
 
@@ -79,3 +81,4 @@ So that's it from me, Tracy Blockchain Cryptocurrency.  Tune in next week, when 
 [^4]: <a href="https://hackernoon.com/wtf-is-the-blockchain-1da89ba19348">WTF is the Blockchain</a>
 [^5]: <a href="https://hackernoon.com/your-company-will-use-blockchain-in-less-than-10-years-heres-how-6d9da452fa8d">Every Company Will Use Blockchain by 2027</a>
 [^6]: <a href="https://medium.freecodecamp.org/how-does-blockchain-really-work-i-built-an-app-to-show-you-6b70cd4caf7d">How Does Blockchain Really Work? I Built an App to Show You</a>
+[^7]: <a href="https://www.investinblockchain.com/what-is-blockchain-technology/">What Is Blockchain Technology</a>
