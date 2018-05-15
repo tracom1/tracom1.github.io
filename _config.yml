@@ -5,7 +5,8 @@ locale: en_US
 description: Talk Tech to Me
 logo: Logomakr_2PFSRh.png
 search: true
-url: http://techlady.ninja
+#url: http://techlady.ninja
+url: https://techlady.ninja
 #url: http://localhost:4000
 
 # Jekyll configuration
